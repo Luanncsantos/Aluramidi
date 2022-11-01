@@ -1,4 +1,4 @@
-function tocaSom(idElementoAudio) {
+function tocaSom(seletorAudio) {
     const elemento = document.querySelector(seletorAudio);
 
     if (elemento === null) {
